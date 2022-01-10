@@ -1,2 +1,2 @@
-# ForegroundServiceAndLocation
-Foreground Serviceで、位置情報を取得するサンプル
+# ForegroundServiceAndLocation(SmartPhone)
+Foreground Service+位置情報のサンプル(スマホ版)
